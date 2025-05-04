@@ -25,6 +25,6 @@ This repository contains all the tasks and projects completed as part of my web 
 ## 🔗 Connect with Me
 
 - **Email:** [talibc481@gmail.com](mailto:talibc481@gmail.com)
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/talib-choudhary-318803328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- **LinkedIn:** [LinkediTalibn](https://www.linkedin.com/in/talib-choudhary-318803328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 
